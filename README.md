@@ -19,8 +19,8 @@ You need to have Java installed and setup in path.
 ### Steps
 
 1. Download this repository into your local machine, using either Download ZIP option or you can clone it.
-2. Unzip the "Jar-Details-master.zip" if you have downloaded the zip version.
-3. Compile the code
+2. Unzip the "Jar-Details-master.zip", if you have downloaded the zip version.
+3. Compile the code;
    You can use your favorate command prompt and travel to unziped directory and using Java compiler compile it.
    Ex.:
    ```

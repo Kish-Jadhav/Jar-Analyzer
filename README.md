@@ -24,12 +24,12 @@ You need to have Java installed and setup in path.
    You can use your favorate command prompt and travel to unziped directory and using Java compiler compile it.
    Ex.:
    ```
-   Downloads\Jar-Details-master\Jar-Details-master>javac JarDetails.java
+   Downloads\Jar-Analyzer-master\Jar-Analyzer-master>javac JarDetails.java
    ```
 4. Now provide your .jar file to this analyzer for analysis.
    Ex.:
    ```
-   java JarDetails --jarFile=D:\jars\xyzjar.jar
+   Downloads\Jar-Analyzer-master\Jar-Analyzer-master>java JarDetails --jarFile=D:\jars\xyzjar.jar
    ```
     Output:
     ```
